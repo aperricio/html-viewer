@@ -1,6 +1,6 @@
 # HTML Viewer
 
-![HTML Viewer](img/html-viewer.png)
+<p align="center"><img style="max-width: 350px;" src="img/html-viewer.png"></p>
 
 This is an HTML Viewer, and only do that.
 
