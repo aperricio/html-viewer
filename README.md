@@ -1,6 +1,6 @@
 # HTML Viewer
 
-<p align="center"><img style="max-width: 350px;" src="img/html-viewer.png"></p>
+<p align="center"><img style="width: 350px;" src="img/html-viewer.png"></p>
 
 This is an HTML Viewer, and only do that.
 
